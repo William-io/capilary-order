@@ -1,0 +1,12 @@
+D:\source\repos\Code Snippets\CSharp-API\Capillary\Capillary.Infra\bin\Debug\net6.0\Capillary.Infra.deps.json
+D:\source\repos\Code Snippets\CSharp-API\Capillary\Capillary.Infra\bin\Debug\net6.0\Capillary.Infra.dll
+D:\source\repos\Code Snippets\CSharp-API\Capillary\Capillary.Infra\bin\Debug\net6.0\ref\Capillary.Infra.dll
+D:\source\repos\Code Snippets\CSharp-API\Capillary\Capillary.Infra\bin\Debug\net6.0\Capillary.Infra.pdb
+D:\source\repos\Code Snippets\CSharp-API\Capillary\Capillary.Infra\obj\Debug\net6.0\Capillary.Infra.csproj.AssemblyReference.cache
+D:\source\repos\Code Snippets\CSharp-API\Capillary\Capillary.Infra\obj\Debug\net6.0\Capillary.Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\Code Snippets\CSharp-API\Capillary\Capillary.Infra\obj\Debug\net6.0\Capillary.Infra.AssemblyInfoInputs.cache
+D:\source\repos\Code Snippets\CSharp-API\Capillary\Capillary.Infra\obj\Debug\net6.0\Capillary.Infra.AssemblyInfo.cs
+D:\source\repos\Code Snippets\CSharp-API\Capillary\Capillary.Infra\obj\Debug\net6.0\Capillary.Infra.csproj.CoreCompileInputs.cache
+D:\source\repos\Code Snippets\CSharp-API\Capillary\Capillary.Infra\obj\Debug\net6.0\Capillary.Infra.dll
+D:\source\repos\Code Snippets\CSharp-API\Capillary\Capillary.Infra\obj\Debug\net6.0\ref\Capillary.Infra.dll
+D:\source\repos\Code Snippets\CSharp-API\Capillary\Capillary.Infra\obj\Debug\net6.0\Capillary.Infra.pdb
